@@ -1,0 +1,18 @@
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\bin\Debug\HuzuniCrack.exe
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\bin\Debug\HuzuniCrack.pdb
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\bin\Debug\HuzuniCrack.xml
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\obj\x86\Debug\HuzuniCrack.frmMain.resources
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\obj\x86\Debug\HuzuniCrack.Resources.resources
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\obj\x86\Debug\HuzuniCrack.vbproj.GenerateResource.Cache
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\obj\x86\Debug\HuzuniCrack.exe
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\obj\x86\Debug\HuzuniCrack.xml
+C:\Users\Luke\AppData\Local\Temporary Projects\HuzuniCrack\obj\x86\Debug\HuzuniCrack.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\obj\x86\Debug\HuzuniCrack.exe
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\obj\x86\Debug\HuzuniCrack.xml
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\obj\x86\Debug\HuzuniCrack.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\bin\Debug\HuzuniCrack.exe
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\bin\Debug\HuzuniCrack.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\bin\Debug\HuzuniCrack.xml
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\obj\x86\Debug\HuzuniCrack.frmMain.resources
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\obj\x86\Debug\HuzuniCrack.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\HuzuniCrack\HuzuniCrack\obj\x86\Debug\HuzuniCrack.vbproj.GenerateResource.Cache
